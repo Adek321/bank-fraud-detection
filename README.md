@@ -214,23 +214,51 @@ Regularly validate and update models as new transaction data becomes available.
 
 ## 8. Project Structure
 
+
+## 9. Project Architecture
+
+The repository is organised to make the analysis workflow, visual outputs, exported results and trained machine learning model easy to navigate.
+
+| Component | Description |
+|:---|:---|
+| 📓 [Analysis1.ipynb](./Analysis1.ipynb) | Main Jupyter Notebook containing data preparation, exploratory analysis, model development and evaluation |
+| 📊 [images/](./images/) | Seven visualizations generated during the analysis |
+| 📁 [tables/](./tables/) | Ten exported CSV files containing analytical results and model outputs |
+| 🤖 [models/](./models/) | Trained fraud detection model |
+| ⚙️ [requirements.txt](./requirements.txt) | Python libraries required to reproduce the project |
+| 📝 [.gitignore](./.gitignore) | Specifies files excluded from version control |
+| 📖 [README.md](./README.md) | Project documentation and navigation guide |
+
+### Project Workflow
+
 ```text
-bank-fraud-detection/
-│
-├── images/
-│   └── Analysis charts
-│
-├── tables/
-│   └── Exported CSV tables
-│
-├── models/
-│   └── Trained fraud detection model
-│
-├── Analysis1.ipynb
-├── requirements.txt
-├── .gitignore
-└── README.md
+Transaction Dataset
+        |
+        ▼
+Data Loading & Inspection
+        |
+        ▼
+Data Cleaning & Preparation
+        |
+        ▼
+Exploratory Data Analysis
+        |
+        ▼
+Feature Preparation
+        |
+        ▼
+Machine Learning Modelling
+        |
+        ▼
+Model Evaluation & Comparison
+        |
+        ▼
+Fraud Detection Insights
+        |
+        ▼
+Business Recommendations
 ```
+
 
 ---
 
