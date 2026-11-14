@@ -106,6 +106,34 @@ Click any chart to view it in full size.
 
 ---
 
+## 6. Downloadable Analysis Results
+
+The following CSV files contain exported data and analytical results generated during the project.
+
+### Data Preparation and Exploration
+
+| File | Description |
+|---|---|
+| [01. Loading Data](./tables/01_loading_data_table1.csv) | Initial data loading results |
+| [02. Missing Values Check](./tables/02_checking_missing_values_table1.csv) | Missing-value assessment |
+| [03. Time-Based Overview](./tables/03_time-based_overview_table1.csv) | Time-based analytical results |
+| [04. Analysis Results](./tables/04_results_table1.csv) | Exported analysis results |
+
+### Machine Learning Model Results
+
+| File | Description |
+|---|---|
+| [05. XGBoost Results – Table 1](./tables/05_from_xgboost_import_xgbclassifier_table1.csv) | XGBoost model results |
+| [06. XGBoost Results – Table 2](./tables/06_from_xgboost_import_xgbclassifier_table2.csv) | Additional XGBoost results |
+| [07. Random Forest Results – Table 1](./tables/07_rf_tuned_randomforestclassifier_table1.csv) | Tuned Random Forest results |
+| [08. Random Forest Results – Table 2](./tables/08_rf_tuned_randomforestclassifier_table2.csv) | Additional Random Forest results |
+| [09. Logistic Regression Results – Table 1](./tables/09_lr_tuned_logisticregression_table1.csv) | Tuned Logistic Regression results |
+| [10. Logistic Regression Results – Table 2](./tables/10_lr_tuned_logisticregression_table2.csv) | Additional Logistic Regression results |
+
+**All exported tables:** [Browse the tables folder](./tables/)
+
+---
+
 ## 6. Machine Learning Approach
 
 This project applies supervised machine learning classification techniques to predict potentially fraudulent transactions.
