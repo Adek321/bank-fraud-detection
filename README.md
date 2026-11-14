@@ -1,13 +1,31 @@
 
-# Bank Fraud Detection Using Machine Learning
+<p align="center">
+  <img src="./images/wycliffe-adek.png" alt="Wycliffe Adek" width="180">
+</p>
 
-### Turning Transaction Data into Actionable Fraud Prevention Insights
+<h1 align="center">Wycliffe Adek</h1>
 
-**Author:** Wycliffe Adek  
-**Project:** Bank Fraud Detection  
-**Technologies:** Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | XGBoost
+<h3 align="center">Bank Fraud Detection Using Machine Learning</h3>
+
+<p align="center">
+  Turning Transaction Data into Actionable Fraud Prevention Insights
+</p>
+
+<p align="center">
+  <strong>Data Analyst | Applied Statistics | Machine Learning | Business Analytics</strong>
+</p>
+
+<p align="center">
+  Python • Pandas • NumPy • Scikit-learn • XGBoost • Jupyter Notebook
+</p>
+
+<p align="center">
+  <a href="https://github.com/Adek321">GitHub Profile</a> |
+  <a href="https://github.com/Adek321/bank-fraud-detection">Project Repository</a>
+</p>
 
 ---
+
 
 ## 1. About the Author
 
