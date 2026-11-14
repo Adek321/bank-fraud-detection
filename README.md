@@ -68,6 +68,40 @@ The analysis explores:
 
 **Explore the analysis charts:** [Open the images folder](./images/)
 
+### Visual Analysis Gallery
+
+Click any chart to view it in full size.
+
+#### 1. Fraud Rate by Transaction Amount
+
+[![Fraud Rate by Amount Bucket](./images/01_fraud_rate_by_amount_bucket.png)](./images/01_fraud_rate_by_amount_bucket.png)
+
+#### 2. Outlier Handling
+
+[![Outlier Handling](./images/02_outlier_handling.png)](./images/02_outlier_handling.png)
+
+#### 3. Fraud Rate by Transaction Type
+
+[![Fraud Rate by Transaction Type](./images/03_fraud_rate_by_transaction_type.png)](./images/03_fraud_rate_by_transaction_type.png)
+
+#### 4. Time-Based Overview — Chart 1
+
+[![Time Based Overview 1](./images/04_time-based_overview.png)](./images/04_time-based_overview.png)
+
+#### 5. Time-Based Overview — Chart 2
+
+[![Time Based Overview 2](./images/05_time-based_overview.png)](./images/05_time-based_overview.png)
+
+#### 6. Time-Based Overview — Chart 3
+
+[![Time Based Overview 3](./images/06_time-based_overview.png)](./images/06_time-based_overview.png)
+
+#### 7. Correlation Check
+
+[![Correlation Check](./images/07_correlation_check.png)](./images/07_correlation_check.png)
+
+**More analysis outputs:** [Explore all charts](./images/) | [Explore exported tables](./tables/)
+
 **Explore the exported results:** [Open the tables folder](./tables/)
 
 ---
