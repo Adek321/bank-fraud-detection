@@ -83,7 +83,7 @@ The analysis explores:
 - Unusual transaction behaviour.
 - Potential indicators of fraudulent activities.
 
-**Explore the analysis charts:** [Open the images folder](./images/)
+**Explore the analysis charts:** 
 
 ### Visual Analysis Gallery
 
@@ -147,7 +147,7 @@ The following CSV files contain exported data and analytical results generated d
 | [09. Logistic Regression Results – Table 1](./tables/09_lr_tuned_logisticregression_table1.csv) | Tuned Logistic Regression results |
 | [10. Logistic Regression Results – Table 2](./tables/10_lr_tuned_logisticregression_table2.csv) | Additional Logistic Regression results |
 
-**All exported tables:** [Browse the tables folder](./tables/)
+**All exported tables:** 
 
 ---
 
