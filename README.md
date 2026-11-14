@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="./images/wycliffe-adek.png" alt="Wycliffe Adek" width="180">
 </p>
