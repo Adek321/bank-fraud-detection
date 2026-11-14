@@ -1,0 +1,4 @@
+Unnamed: 0,model,roc_auc,auprc
+2,XGBoost,0.991564,0.823327
+1,RandomForest,0.988058,0.767621
+0,LogisticRegression,0.95062,0.365807

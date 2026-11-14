@@ -1,0 +1,7 @@
+Name,Type,Value
+classes_,"ndarray[int64](2,)","[0,1]"
+feature_importances_,"ndarray[float32](9,)","[0.1 ,0.08,0.08,...,0.42,0.07,0.12]"
+feature_names_in_,"ndarray[<U17](9,)","['step','amount','log_amount',...,'balance_diff_orig','balance_diff_dest',  'type_enc']"
+intercept_,"ndarray[float32](1,)",[0.5]
+n_classes_,int,2
+n_features_in_,int,9

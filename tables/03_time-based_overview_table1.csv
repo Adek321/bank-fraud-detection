@@ -1,0 +1,6 @@
+Unnamed: 0,hour,total_transactions,fraud_transactions,fraud_rate
+0,0,8923,30,0.003362
+1,1,5078,46,0.009059
+2,2,1482,48,0.032389
+3,3,615,34,0.055285
+4,4,581,26,0.04475
